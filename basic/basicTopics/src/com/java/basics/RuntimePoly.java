@@ -3,6 +3,7 @@ package com.java.basics;
 // here i used static class because in the same class i extended the another class. if you are 
 //trying to override the same method you can use 2 different classes then extends it.
 
+
 public class RuntimePoly {
 	int res;
 	
