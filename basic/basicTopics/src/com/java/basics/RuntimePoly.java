@@ -32,7 +32,6 @@ public class RuntimePoly {
 		RuntimePoly swathi= new Swathi();
 		System.out.println("dynamic method dispatch: "+dynamicMethodDispatch.add(10, 100));
 		System.out.println("printing from swathi class: "+swathi.add(10, 10));
-	
 		
 	}
 
